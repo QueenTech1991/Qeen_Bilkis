@@ -1,4 +1,4 @@
-# Qeen_Bilkis
+# Queen_Bilkis
 Just a site
 <!DOCTYPE html>
 <html>
